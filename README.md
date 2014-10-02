@@ -22,3 +22,5 @@ If you get an error where it says "remote not found" simply
 
         rm .repo/local_manifests/ig-88.xml
         repo sync
+
+Want the mischeif to happen faster? This is my bitcoin address. You know what to 12r5qD85GMSkBMj7KYDW3BDw89ZRCWWj5E
